@@ -2,6 +2,6 @@
 layout: default
 title: About
 ---
-# About page
+# 创世者有话说：
 
-This page tells you a little bit about me.
+你可以在这个网站上说任何自己想说的东西，没错它就是一个树洞，一起来分享秘密吧！
